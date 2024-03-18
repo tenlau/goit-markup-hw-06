@@ -24,6 +24,7 @@
 	letter-spacing: 0.02em;
 	text-align: center;
 	color: var(--white);
+	
 }
 
 .hero-section button {
@@ -270,6 +271,7 @@ label {
 	flex-direction: column;
 	gap: 4px;
 	width: 360px;
+
 }
 
 .input-with-icon {
@@ -292,6 +294,7 @@ label {
 	border: 1px solid var(--iris);
 	border-radius: 4px;
 	outline: none;
+		padding-left: 35px;
 }
 
 .input-with-icon:focus ~ .input-icon {
